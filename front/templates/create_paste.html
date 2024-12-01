@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+	<title> Create Paste </title>
+	<link rel="stylesheet" href="{{ url_for('mybp.static', filename='mystyle.css') }}">
+	<body>
+		<div class="container">
+			<form action="createpaste" method="post">
+				<label for="username"><b>Username</b></label>
+				<input type="text" placeholder="Enter Username" name="username" value="{{ username }}" required>
+				<label for="password"><b>Password</b></label>
+				<input type="text" placeholder="Enter Password" name="password" required>
+				<label for="title"><b>Title</b></label>
+				<input type="text" placeholder="enter title" name="title" required>
+				<label for="content"><b>Content</b></label>
+				<input type="text" placeholder="enter content" name="content">
+				<button type="submit">Create Paste</button>
+			</form>
+		</div>
+	</body>
+</html>
+

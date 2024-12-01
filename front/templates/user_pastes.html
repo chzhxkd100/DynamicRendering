@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<title>User Pastes</title>
+	<link rel ="stylesheet" href="{{ url_for('mybp.static', filename='mystyle.css') }} ">	
+	<body>
+		<h1>Paste ( {{ count_pastes }} pastes by {{ username }} )</h1>
+			
+		<div id ='pastes'>
+			{% for paste in pastes | reverse %}
+			<h3>{{ paste['title'] }}</h3><p>{{ paste['content'] }}</p><hr>
+			{% endfor %}
+		</div>
+
+	</body>
+</html>

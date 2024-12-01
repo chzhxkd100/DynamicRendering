@@ -1,0 +1,31 @@
+nohup: ignoring input
+ * Serving Flask app 'app.py'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://172.18.0.4:8888
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 100-575-423
+172.18.0.6 - - [01/Dec/2024 21:14:04] "GET /pastebin/ HTTP/1.0" 200 -
+172.18.0.6 - - [01/Dec/2024 21:14:04] "[36mGET /pastebin/pastebin/static/myscript.js HTTP/1.0[0m" 304 -
+172.18.0.6 - - [01/Dec/2024 21:14:05] "[36mGET /pastebin/pastebin/static/mystyle.css HTTP/1.0[0m" 304 -
+172.18.0.6 - - [01/Dec/2024 21:24:57] "GET /pastebin/createuser HTTP/1.0" 200 -
+172.18.0.6 - - [01/Dec/2024 21:24:57] "[36mGET /pastebin/pastebin/static/mystyle.css HTTP/1.0[0m" 304 -
+172.18.0.6 - - [01/Dec/2024 21:25:05] "GET /pastebin/ HTTP/1.0" 200 -
+172.18.0.6 - - [01/Dec/2024 21:25:05] "[36mGET /pastebin/pastebin/static/mystyle.css HTTP/1.0[0m" 304 -
+172.18.0.6 - - [01/Dec/2024 21:25:05] "[36mGET /pastebin/pastebin/static/myscript.js HTTP/1.0[0m" 304 -
+172.18.0.6 - - [01/Dec/2024 21:25:37] "POST /pastebin/createuser HTTP/1.0" 200 -
+172.18.0.6 - - [01/Dec/2024 21:25:37] "[36mGET /pastebin/pastebin/static/mystyle.css HTTP/1.0[0m" 304 -
+172.18.0.6 - - [01/Dec/2024 21:26:05] "GET /pastebin/ HTTP/1.0" 200 -
+172.18.0.6 - - [01/Dec/2024 21:26:05] "[36mGET /pastebin/pastebin/static/mystyle.css HTTP/1.0[0m" 304 -
+172.18.0.6 - - [01/Dec/2024 21:26:05] "[36mGET /pastebin/pastebin/static/myscript.js HTTP/1.0[0m" 304 -
+172.18.0.6 - - [01/Dec/2024 21:26:54] "GET /pastebin/createpaste HTTP/1.0" 200 -
+172.18.0.6 - - [01/Dec/2024 21:26:54] "[36mGET /pastebin/pastebin/static/mystyle.css HTTP/1.0[0m" 304 -
+172.18.0.6 - - [01/Dec/2024 21:27:43] "POST /pastebin/createpaste HTTP/1.0" 200 -
+172.18.0.6 - - [01/Dec/2024 21:27:43] "[36mGET /pastebin/pastebin/static/mystyle.css HTTP/1.0[0m" 304 -
+172.18.0.6 - - [01/Dec/2024 21:29:06] "GET /pastebin/user1/pastes HTTP/1.0" 200 -
+172.18.0.6 - - [01/Dec/2024 21:29:06] "[36mGET /pastebin/pastebin/static/mystyle.css HTTP/1.0[0m" 304 -
+172.18.0.6 - - [01/Dec/2024 21:34:43] "[36mGET /pastebin/pastebin/static/mystyle.css HTTP/1.0[0m" 304 -
