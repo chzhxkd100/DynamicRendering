@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, Blueprint
 import json
 import urllib
 
-endpoint = 'http://34.64.115.78:8080/pastebin/api'
+endpoint = 'http://34.22.70.234:8080/pastebin/api'
 
 app = Flask(__name__)
 

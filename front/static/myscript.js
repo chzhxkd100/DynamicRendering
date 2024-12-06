@@ -2,7 +2,7 @@ let displayedData = new Set();
 
 async function fetchRequestWithError() {
   try {
-    const url = `http://34.64.115.78:8080/pastebin/api/pastes/`;
+    const url = `https://34.22.70.234:8443/pastebin/api/pastes/`;
     const response = await fetch(url);
     if (response.status >= 200 && response.status < 400) {
       const data = await response.json();

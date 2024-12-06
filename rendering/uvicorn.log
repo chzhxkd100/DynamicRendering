@@ -2236,3 +2236,982 @@ INFO:     172.18.0.6:52046 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
 INFO:     172.18.0.6:52052 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
 INFO:     172.18.0.6:48430 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
 INFO:     172.18.0.6:48444 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48446 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:47868 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:47876 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:47890 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:47894 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:46084 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:46096 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:46104 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:43430 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:43438 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:43442 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52938 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52942 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52950 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52956 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37082 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37096 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37110 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35904 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35906 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35916 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44344 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44352 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44358 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44364 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60276 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60286 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60294 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40928 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40942 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40958 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38320 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38326 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38342 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38358 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:46836 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:46844 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:46852 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:32816 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:32818 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:32826 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45340 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45344 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45352 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45366 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37262 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37264 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37272 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:54984 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:54992 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:54998 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39446 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39454 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39470 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39478 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:41990 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:41992 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:42000 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38982 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38998 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39014 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40714 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40728 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40742 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40754 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:41096 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:41098 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:41106 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55744 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55752 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55764 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39000 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39008 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39024 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39026 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:50790 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:50792 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:50794 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40528 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40542 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40552 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57110 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57120 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57124 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57136 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55066 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55068 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55078 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:34814 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:34824 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:34840 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:33438 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:33448 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:33452 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:33458 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:47404 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:47408 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:47414 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48834 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48838 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48850 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51638 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51654 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51656 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51666 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51202 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51210 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51218 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56686 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56688 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56690 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53410 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53426 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53430 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53442 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:58688 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:58696 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:58706 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:33902 - "GET /pastebin/api/users/ HTTP/1.0" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+    cursor.execute(statement, parameters)
+  File "/venv/lib/python3.12/site-packages/mariadb/cursors.py", line 309, in execute
+    self._execute_text(self._transformed_statement)
+mariadb.InterfaceError: Server has gone away
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
+    raise exc
+  File "/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/fastapi/routing.py", line 214, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/starlette/concurrency.py", line 39, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/anyio/to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 2441, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 943, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/app/main.py", line 36, in get_users
+    users = crud.get_users(db, skip=skip, limit=limit)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/app/crud.py", line 18, in get_users
+    return db.query(models.User).order_by(models.User.id.asc()).offset(skip).limit(limit).all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2673, in all
+    return self._iter().all()  # type: ignore
+           ^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2827, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2362, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2247, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/context.py", line 305, in orm_execute_statement
+    result = conn.execute(
+             ^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+           ^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2355, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+    cursor.execute(statement, parameters)
+  File "/venv/lib/python3.12/site-packages/mariadb/cursors.py", line 309, in execute
+    self._execute_text(self._transformed_statement)
+sqlalchemy.exc.InterfaceError: (mariadb.InterfaceError) Server has gone away
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.salt AS users_salt, users.password AS users_password 
+FROM users ORDER BY users.id ASC 
+ LIMIT ?, ?]
+[parameters: (0, 100)]
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+INFO:     172.18.0.6:59396 - "GET /pastebin/api/users/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59412 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59416 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35048 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35064 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35066 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53716 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53724 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53740 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40748 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40756 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40772 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40780 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:58380 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:58388 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:58394 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:33762 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:33778 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:33794 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35802 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35812 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35828 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35832 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35668 - "GET /pastebin/api/users/ HTTP/1.0" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+    cursor.execute(statement, parameters)
+  File "/venv/lib/python3.12/site-packages/mariadb/cursors.py", line 309, in execute
+    self._execute_text(self._transformed_statement)
+mariadb.InterfaceError: Server has gone away
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
+    raise exc
+  File "/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/fastapi/routing.py", line 214, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/starlette/concurrency.py", line 39, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/anyio/to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 2441, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 943, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/app/main.py", line 36, in get_users
+    users = crud.get_users(db, skip=skip, limit=limit)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/app/crud.py", line 18, in get_users
+    return db.query(models.User).order_by(models.User.id.asc()).offset(skip).limit(limit).all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2673, in all
+    return self._iter().all()  # type: ignore
+           ^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2827, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2362, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2247, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/context.py", line 305, in orm_execute_statement
+    result = conn.execute(
+             ^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+           ^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2355, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+    cursor.execute(statement, parameters)
+  File "/venv/lib/python3.12/site-packages/mariadb/cursors.py", line 309, in execute
+    self._execute_text(self._transformed_statement)
+sqlalchemy.exc.InterfaceError: (mariadb.InterfaceError) Server has gone away
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.salt AS users_salt, users.password AS users_password 
+FROM users ORDER BY users.id ASC 
+ LIMIT ?, ?]
+[parameters: (0, 100)]
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+INFO:     172.18.0.6:45464 - "GET /pastebin/api/users/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45480 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45492 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55358 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55362 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55370 - "GET /pastebin/api/docs HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55372 - "GET /pastebin/api/openapi.json HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59590 - "GET /pastebin/api/users/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59606 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59612 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59628 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38248 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38256 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38260 - "GET /pastebin/api/users/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38276 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38290 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39592 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39602 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39604 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38764 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38772 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38778 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38792 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:42784 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:42790 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:42798 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49562 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49570 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49572 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40802 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40806 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40808 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40824 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40480 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40482 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40490 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37878 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37884 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37894 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:34904 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:34916 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:34926 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:34940 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55916 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55930 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55944 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37142 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37156 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37166 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44866 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44878 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44886 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44902 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53120 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53134 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53146 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:58578 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:58580 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:58592 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60492 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60506 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60512 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60514 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39172 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39180 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39192 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53914 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53916 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53930 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:54640 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:54656 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:54658 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:54660 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56716 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56730 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56740 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55716 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55728 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55732 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:43252 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:43268 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:43270 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:43284 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51944 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51954 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51966 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56488 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56496 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56498 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53280 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53290 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53302 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53304 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:42844 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:42848 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:42864 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45770 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45772 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45778 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38476 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38490 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38496 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38512 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52684 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52688 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52692 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40368 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40380 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40388 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59488 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59498 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59512 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59522 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44496 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44508 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44516 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60530 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60536 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60550 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49940 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49948 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49952 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49960 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52794 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52808 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52816 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45426 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45430 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45440 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59614 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59622 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59636 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59638 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38376 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38390 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38404 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44518 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44524 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44534 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48576 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48588 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48602 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48608 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52836 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52838 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52848 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48220 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48222 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48230 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:34590 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:34604 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:34614 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:34628 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49194 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49208 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49210 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52634 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52648 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52652 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35460 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35464 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35478 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35492 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:42180 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:42194 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:42208 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40652 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40662 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40672 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57334 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57340 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57346 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57356 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40210 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40212 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40224 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60784 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60800 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60804 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35926 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35938 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35942 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35952 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59030 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59046 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59058 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49536 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49542 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49556 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52350 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52360 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52370 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:54290 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:54294 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:54306 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:54322 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37020 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37036 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37042 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56598 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56606 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56608 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35986 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35998 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:36004 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:36018 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:36146 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:36148 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:36162 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40990 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:41000 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:41016 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59598 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59292 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60790 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51792 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38722 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60212 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59698 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59700 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59710 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59712 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59372 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59378 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59382 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37222 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37236 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:37238 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45754 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45762 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45770 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45778 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56948 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56954 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56962 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57840 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57854 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57856 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39528 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40786 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:58868 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35308 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40464 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51002 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:41132 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49640 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39344 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:34620 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57722 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:35646 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:50214 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59480 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55580 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44794 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48698 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40440 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49564 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:33166 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:43686 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45346 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:55872 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56500 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:39668 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40936 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:59662 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:50988 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:43238 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:52956 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53178 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:48356 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:46164 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:60992 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51872 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:53546 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:43160 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:33274 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:47310 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57746 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:57210 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:58394 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:38780 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:44294 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:50964 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:45484 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:49314 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56282 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51022 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:47254 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51564 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:60548 - "GET /pastebin/api/ HTTP/1.1" 404 Not Found
+INFO:     172.18.0.6:51468 - "GET /pastebin/api/docs HTTP/1.0" 200 OK
+INFO:     172.18.0.6:51480 - "GET /pastebin/api/openapi.json HTTP/1.0" 200 OK
+INFO:     172.18.0.6:43312 - "GET /pastebin/api/docs HTTP/1.0" 200 OK
+INFO:     172.18.0.6:43324 - "GET /pastebin/api/openapi.json HTTP/1.0" 200 OK
+INFO:     172.18.0.7:43942 - "GET /pastebin/api/pastebin/api/docs HTTP/1.0" 404 Not Found
+INFO:     172.18.0.7:46504 - "GET /pastebin/api/pastebin/api/docs HTTP/1.0" 404 Not Found
+INFO:     172.18.0.7:52602 - "GET /pastebin/api/pastebin/api/docs HTTP/1.0" 404 Not Found
+INFO:     172.18.0.7:59418 - "GET /pastebin/api/docs HTTP/1.0" 200 OK
+INFO:     172.18.0.7:59430 - "GET /pastebin/api/openapi.json HTTP/1.0" 200 OK
+INFO:     172.18.0.7:41168 - "GET /pastebin/api/docs HTTP/1.0" 200 OK
+INFO:     172.18.0.7:41180 - "GET /pastebin/api/openapi.json HTTP/1.0" 200 OK
+INFO:     172.18.0.7:60908 - "GET /pastebin/api/pastes/?skip=0&limit=100 HTTP/1.0" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+    cursor.execute(statement, parameters)
+  File "/venv/lib/python3.12/site-packages/mariadb/cursors.py", line 309, in execute
+    self._execute_text(self._transformed_statement)
+mariadb.InterfaceError: Server has gone away
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
+    raise exc
+  File "/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/fastapi/routing.py", line 214, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/starlette/concurrency.py", line 39, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/anyio/to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 2441, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 943, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/app/main.py", line 41, in get_pastes
+    pastes = crud.get_all_pastes(db, skip=skip, limit=limit)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/app/crud.py", line 60, in get_all_pastes
+    return db.query(models.Paste).offset(skip).limit(limit).all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2673, in all
+    return self._iter().all()  # type: ignore
+           ^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2827, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2362, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2247, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/context.py", line 305, in orm_execute_statement
+    result = conn.execute(
+             ^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+           ^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2355, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+    cursor.execute(statement, parameters)
+  File "/venv/lib/python3.12/site-packages/mariadb/cursors.py", line 309, in execute
+    self._execute_text(self._transformed_statement)
+sqlalchemy.exc.InterfaceError: (mariadb.InterfaceError) Server has gone away
+[SQL: SELECT pastes.id AS pastes_id, pastes.owner_id AS pastes_owner_id, pastes.title AS pastes_title, pastes.content AS pastes_content 
+FROM pastes 
+ LIMIT ?, ?]
+[parameters: (0, 100)]
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+INFO:     172.18.0.7:35882 - "GET /pastebin/api/users/?skip=0&limit=100 HTTP/1.0" 200 OK
+INFO:     172.18.0.7:59560 - "GET /pastebin/api/pastes/?skip=0&limit=100 HTTP/1.0" 200 OK
+INFO:     172.18.0.7:55724 - "GET /pastebin/api/docs HTTP/1.0" 200 OK
+INFO:     172.18.0.7:55736 - "GET /pastebin/api/openapi.json HTTP/1.0" 200 OK
+INFO:     172.18.0.6:33366 - "GET /pastebin/api/ HTTP/1.0" 404 Not Found
+INFO:     172.18.0.7:47562 - "GET /pastebin/api/docs HTTP/1.0" 200 OK
+INFO:     172.18.0.7:47576 - "GET /pastebin/api/openapi.json HTTP/1.0" 200 OK
+INFO:     172.18.0.6:42246 - "GET /pastebin/api/users/ HTTP/1.0" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+    cursor.execute(statement, parameters)
+  File "/venv/lib/python3.12/site-packages/mariadb/cursors.py", line 309, in execute
+    self._execute_text(self._transformed_statement)
+mariadb.InterfaceError: Server has gone away
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/venv/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
+    raise exc
+  File "/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/venv/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/fastapi/routing.py", line 214, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/starlette/concurrency.py", line 39, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/anyio/to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 2441, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 943, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/app/main.py", line 36, in get_users
+    users = crud.get_users(db, skip=skip, limit=limit)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/app/crud.py", line 18, in get_users
+    return db.query(models.User).order_by(models.User.id.asc()).offset(skip).limit(limit).all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2673, in all
+    return self._iter().all()  # type: ignore
+           ^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2827, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2362, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2247, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/orm/context.py", line 305, in orm_execute_statement
+    result = conn.execute(
+             ^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+           ^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2355, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+    cursor.execute(statement, parameters)
+  File "/venv/lib/python3.12/site-packages/mariadb/cursors.py", line 309, in execute
+    self._execute_text(self._transformed_statement)
+sqlalchemy.exc.InterfaceError: (mariadb.InterfaceError) Server has gone away
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.salt AS users_salt, users.password AS users_password 
+FROM users ORDER BY users.id ASC 
+ LIMIT ?, ?]
+[parameters: (0, 100)]
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+INFO:     172.18.0.6:47208 - "GET /pastebin/api/users/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:47212 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:41752 - "GET /pastebin/api/users/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:41762 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56836 - "GET /pastebin/api/users/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:56846 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40634 - "GET /pastebin/api/users/ HTTP/1.0" 200 OK
+INFO:     172.18.0.6:40642 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:40240 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:40242 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:50680 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:50694 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:50708 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:58012 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:58022 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:58024 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:58028 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:43032 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:43038 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:43050 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:35154 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:35160 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:35164 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:44684 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:44700 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:44712 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:50640 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:50642 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:50652 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:50656 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:54484 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:54486 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:54502 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:56062 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:56066 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:56072 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:43746 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:43750 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:43752 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:43768 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:43176 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:41402 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:41418 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:41428 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:44126 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:44140 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:44150 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:44154 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:53274 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:53282 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:53292 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:42442 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:42452 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:42466 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:39862 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:39878 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:39886 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:39900 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:47536 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:47546 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:35472 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:46060 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:54476 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:40514 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:32956 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
+INFO:     172.18.0.7:44342 - "GET /pastebin/api/pastes/ HTTP/1.0" 200 OK
